@@ -1,0 +1,39 @@
+{
+  "users": {
+    "default_user": {
+      "preferred_imagery": [
+        "热汤",
+        "雨"
+      ],
+      "preferred_emotion_styles": [
+        "温和"
+      ],
+      "recent_inputs": [
+        "我今天有点难过，希望语气温和一点，最好有热汤和雨。"
+      ]
+    },
+    "demo_user": {
+      "preferred_imagery": [
+        "热汤",
+        "雨"
+      ],
+      "preferred_emotion_styles": [
+        "温和"
+      ],
+      "recent_inputs": [
+        "我今天有点难过，希望语气温和一点，最好有热汤和雨。"
+      ]
+    },
+    "course_demo_user": {
+      "preferred_imagery": [],
+      "preferred_emotion_styles": [],
+      "recent_inputs": [
+        "你最喜欢云南的什么菌子呢",
+        "我特别喜欢您的散文，觉得累的时候就会读，读完心就静下来了",
+        "我最喜欢的是葡萄月令和跑警报这两篇，特别有意思还特别美，“都说梨花像雪，其实苹果花才像雪，梨花的瓣子是月亮做的”",
+        "您觉得人生的意义是什么呢",
+        "今天写完了一个大作业，真的特别开心能和您对话"
+      ]
+    }
+  }
+}
